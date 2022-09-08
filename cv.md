@@ -5,7 +5,7 @@
 ## Contact
 
 - **Phone**: +375 (29) 717-38-02
-- **E-mail**: petergrebenek@gmail.com
+- **E-mail**: [petergrebenek@gmail.com](petergrebenek@gmail.com)
 - **Location**: Minsk
 - **GitHub**: [petergrebenek](https://github.com/petergrebenek)
 - **Discord**: petergrebenek#8705
